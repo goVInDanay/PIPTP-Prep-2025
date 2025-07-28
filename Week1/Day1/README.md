@@ -2,7 +2,7 @@
 # Week1 - Day 1
 
 ## Problems
-- Problem 1
+### - Problem 1
 #####		What will be the output of the following pseudocode for w=40 and x=4
 		
 ```
@@ -33,8 +33,8 @@
  - [ ] 11
  - [ ] 21
 
- <br/>
- - Problem 2
+
+### - Problem 2
 #####		How many times will while loop be executed
 ```
 	Integer a
