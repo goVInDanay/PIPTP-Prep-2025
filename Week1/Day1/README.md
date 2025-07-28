@@ -33,8 +33,6 @@
  - [ ] 11
  - [ ] 21
  
-<br>
--
  - Problem 2
 #####		How many times will while loop be executed
 ```
